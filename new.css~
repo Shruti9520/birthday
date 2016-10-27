@@ -10,7 +10,7 @@ body.div #01{margin: 10px;
   max-width: 200px;
     border:4px double black;
     
-  padding: 15px;
+  padding: 20px;
   
 }
     
